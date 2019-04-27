@@ -1,0 +1,42 @@
+lines:
+  - :black
+  - :red
+  - :yellow
+stations:
+  donetska:
+    - :black
+  ukrainska:
+    - :black
+  nezalezhna:
+    - :black
+    - :red
+  konotopska:
+    - :black
+  shevchenkivska:
+    - :black
+    - :red
+  heroiv_maidany:
+    - :black
+  granychna:
+    - :black
+  natovska:
+    - :red
+  banderivska:
+    - :red
+  melnykivska:
+    - :red
+  sheptyckogo:
+    - :red
+    - :yellow
+  lemberska:
+     - :yellow
+  babo_paraskivska:
+    - :yellow
+  krymska:
+    - :yellow
+  shchaslyva:
+    - :yellow
+  halytska:
+    - :yellow
+  kiborgiv:
+    - :yellow
